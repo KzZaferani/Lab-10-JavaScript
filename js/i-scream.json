@@ -35,7 +35,29 @@
         "milk chocolate dip",
         "candy sprinkles"
       ],
-      "image": "strawberry-sprinkle.svg"
+      "image": "Lemon-sprinkle.svg"
+    },
+    {
+      "name": "Stupendous Strawberry",
+      "calories": 425,
+      "type": "Lemon yogurt",
+      "ingredients": [
+        "wild strawberries",
+        "milk chocolate dip",
+        "Lemon"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Vanilla Strawberry",
+      "calories": 725,
+      "type": "frozen Cream",
+      "ingredients": [
+        "wild strawberries",
+        "milk",
+        "Vanilla"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
